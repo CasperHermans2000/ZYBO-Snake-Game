@@ -1,0 +1,10 @@
+10:56:08 **** Build of configuration Debug for project snake_game_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 51047 D:/ES/workspace_hdmi/hdmi_workspace/export/hdmi_workspace/hdmi_workspace.xpfm standalone_domain D:/ES/workspace_hdmi/snake_game_system/Debug/system.bif
+sdcard_gen --xpfm D:/ES/workspace_hdmi/hdmi_workspace/export/hdmi_workspace/hdmi_workspace.xpfm --sys_config hdmi_workspace --bif D:/ES/workspace_hdmi/snake_game_system/Debug/system.bif --bitstream D:/ES/workspace_hdmi/snake_game/_ide/bitstream/design_1_wrapper.bit --elf D:/ES/workspace_hdmi/snake_game/Debug/snake_game.elf,ps7_cortexa9_0
+creating BOOT.BIN using D:/ES/workspace_hdmi/snake_game/_ide/bitstream/design_1_wrapper.bit
+Running D:/Xilinx/Vitis/2020.2/bin/bootgen  -image D:/ES/workspace_hdmi/snake_game_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+10:56:19 Build Finished (took 11s.77ms)
+

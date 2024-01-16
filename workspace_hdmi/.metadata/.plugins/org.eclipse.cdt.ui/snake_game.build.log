@@ -1,0 +1,25 @@
+11:54:01 **** Incremental Build of configuration Debug for project snake_game ****
+make all 
+make --no-print-directory pre-build
+a9-linaro-pre-build-step
+' '
+make --no-print-directory main-build
+'Building file: ../src/hdmi_example_anim.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi_example_anim.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -ID:/ES/workspace_hdmi/hdmi_workspace/export/hdmi_workspace/sw/hdmi_workspace/standalone_domain/bspinclude/include -MMD -MP -MF"src/hdmi_example_anim.d" -MT"src/hdmi_example_anim.o" -o "src/hdmi_example_anim.o" "../src/hdmi_example_anim.c"
+'Finished building: ../src/hdmi_example_anim.c'
+' '
+'Building target: snake_game.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -LD:/ES/workspace_hdmi/hdmi_workspace/export/hdmi_workspace/sw/hdmi_workspace/standalone_domain/bsplib/lib -o "snake_game.elf"  ./src/zybo_z7_hdmi/display_ctrl.o ./src/zybo_z7_hdmi/dynclk.o  ./src/hdmi_example_anim.o ./src/platform.o ./src/target_generator.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: snake_game.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size snake_game.elf  |tee "snake_game.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  81844	   2684	10393568	10478096	 9fe210	snake_game.elf
+'Finished building: snake_game.elf.size'
+' '
+
+11:54:02 Build Finished (took 1s.528ms)
+

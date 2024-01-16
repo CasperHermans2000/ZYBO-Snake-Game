@@ -1,0 +1,262 @@
+timestamp=[2023-12-04 14:34:29], mode=WORKBENCH_START, duration=0:00:13.222, duration_ms=13222, data={}
+timestamp=[2023-12-04 14:34:30], mode=WORKBENCH_UI_INIT, duration=0:00:00.952, duration_ms=952, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2023-12-04 14:34:39], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:07.604, duration_ms=7604, data={}
+timestamp=[2023-12-04 14:44:17], mode=PLATFORM_CREATION, duration=0:00:33.560, duration_ms=33560, data={platform_source=dsa, os=standalone, processor=ps7_cortexa9, platform=null}
+timestamp=[2023-12-04 14:45:05], mode=PLATFORM_GENERATION, duration=0:00:23.532, duration_ms=23532, data={name=hdmi_workspace}
+timestamp=[2023-12-04 14:45:50], mode=APP_CREATION, duration=0:00:10.674, duration_ms=10674, data={name=snake_game, project_type=sdk, os=standalone, processor=cortex-a9, runtime=C/C++, platform=hdmi_workspace, application_type=application}
+timestamp=[2023-12-04 14:47:38], mode=BUILD, duration=0:00:03.251, duration_ms=3251, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 14:47:51], mode=BUILD, duration=0:00:12.470, duration_ms=12470, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 15:00:06], mode=BUILD, duration=0:00:01.486, duration_ms=1486, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 15:00:19], mode=BUILD, duration=0:00:12.149, duration_ms=12149, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 15:04:51], mode=WORKBENCH_START, duration=0:00:14.570, duration_ms=14570, data={}
+timestamp=[2023-12-04 15:04:52], mode=WORKBENCH_UI_INIT, duration=0:00:01.306, duration_ms=1306, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hdmi_workspace,snake_game,snake_game_system}
+timestamp=[2023-12-04 15:04:53], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.044, duration_ms=44, data={}
+timestamp=[2023-12-04 15:06:07], mode=BUILD, duration=0:00:01.516, duration_ms=1516, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 15:06:22], mode=BUILD, duration=0:00:14.313, duration_ms=14313, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 15:14:32], mode=BUILD, duration=0:00:00.719, duration_ms=719, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 15:14:43], mode=BUILD, duration=0:00:10.953, duration_ms=10953, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 15:16:19], mode=BUILD, duration=0:00:00.588, duration_ms=588, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 15:16:30], mode=BUILD, duration=0:00:10.911, duration_ms=10911, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 15:16:48], mode=BUILD, duration=0:00:01.214, duration_ms=1214, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 15:16:59], mode=BUILD, duration=0:00:10.913, duration_ms=10913, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 15:20:46], mode=BUILD, duration=0:00:01.483, duration_ms=1483, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 15:20:57], mode=BUILD, duration=0:00:11.085, duration_ms=11085, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 15:50:34], mode=WORKBENCH_START, duration=0:00:11.558, duration_ms=11558, data={}
+timestamp=[2023-12-04 15:50:35], mode=WORKBENCH_UI_INIT, duration=0:00:01.187, duration_ms=1187, data={editors_count=5, platform_editors_count=2, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hdmi_workspace,snake_game,snake_game_system}
+timestamp=[2023-12-04 15:50:36], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.051, duration_ms=51, data={}
+timestamp=[2023-12-04 15:54:32], mode=BUILD, duration=0:00:00.770, duration_ms=770, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 15:54:45], mode=BUILD, duration=0:00:12.127, duration_ms=12127, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 15:55:37], mode=BUILD, duration=0:00:01.201, duration_ms=1201, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 15:56:47], mode=BUILD, duration=0:00:01.048, duration_ms=1048, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 15:58:06], mode=BUILD, duration=0:00:01.107, duration_ms=1107, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 16:00:30], mode=BUILD, duration=0:00:01.086, duration_ms=1086, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 16:04:50], mode=BUILD, duration=0:00:01.086, duration_ms=1086, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 16:07:52], mode=BUILD, duration=0:00:01.078, duration_ms=1078, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 16:08:52], mode=BUILD, duration=0:00:01.035, duration_ms=1035, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 16:19:14], mode=BUILD, duration=0:00:00.845, duration_ms=845, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 16:19:25], mode=BUILD, duration=0:00:00.586, duration_ms=586, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 16:19:35], mode=BUILD, duration=0:00:01.155, duration_ms=1155, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 16:21:41], mode=BUILD, duration=0:00:00.530, duration_ms=530, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 16:22:07], mode=BUILD, duration=0:00:01.078, duration_ms=1078, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 17:43:20], mode=WORKBENCH_START, duration=0:00:11.687, duration_ms=11687, data={}
+timestamp=[2023-12-04 17:43:21], mode=WORKBENCH_UI_INIT, duration=0:00:01.159, duration_ms=1159, data={editors_count=5, platform_editors_count=2, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hdmi_workspace,snake_game,snake_game_system}
+timestamp=[2023-12-04 17:43:22], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.040, duration_ms=40, data={}
+timestamp=[2023-12-04 17:45:28], mode=PLATFORM_GENERATION, duration=0:00:04.745, duration_ms=4745, data={name=hdmi_workspace}
+timestamp=[2023-12-04 17:45:31], mode=BUILD, duration=0:00:00.441, duration_ms=441, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 17:47:28], mode=BUILD, duration=0:00:00.596, duration_ms=596, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 17:47:42], mode=BUILD, duration=0:00:13.456, duration_ms=13456, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 17:57:43], mode=BUILD, duration=0:00:00.536, duration_ms=536, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 17:58:00], mode=BUILD, duration=0:00:15.857, duration_ms=15857, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 17:59:59], mode=BUILD, duration=0:00:00.419, duration_ms=419, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 18:04:33], mode=BUILD, duration=0:00:00.498, duration_ms=498, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 18:05:39], mode=WORKBENCH_START, duration=0:00:07.630, duration_ms=7630, data={}
+timestamp=[2023-12-04 18:05:40], mode=WORKBENCH_UI_INIT, duration=0:00:01.148, duration_ms=1148, data={editors_count=2, platform_editors_count=2, projects_count=4, platform_projects_count=1, active_platform_editor=true, projects=RemoteSystemsTempFiles,hdmi_workspace,snake_game,snake_game_system}
+timestamp=[2023-12-04 18:05:44], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:03.615, duration_ms=3615, data={}
+timestamp=[2023-12-04 18:06:13], mode=PLATFORM_GENERATION, duration=0:00:03.798, duration_ms=3798, data={name=hdmi_workspace}
+timestamp=[2023-12-04 18:06:16], mode=BUILD, duration=0:00:00.557, duration_ms=557, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 18:06:28], mode=BUILD, duration=0:00:11.421, duration_ms=11421, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 18:08:06], mode=APP_CREATION, duration=0:00:12.177, duration_ms=12177, data={name=snake_game2, project_type=sdk, os=standalone, processor=cortex-a9, runtime=C/C++, platform=hdmi_workspace, application_type=application}
+timestamp=[2023-12-04 18:12:05], mode=BUILD, duration=0:00:04.165, duration_ms=4165, data={name=snake_game2, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 18:15:29], mode=BUILD, duration=0:00:00.514, duration_ms=514, data={name=snake_game, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 18:15:31], mode=BUILD, duration=0:00:01.712, duration_ms=1712, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 18:15:38], mode=BUILD, duration=0:00:06.413, duration_ms=6413, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 18:16:29], mode=BUILD, duration=0:00:01.676, duration_ms=1676, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 18:16:41], mode=BUILD, duration=0:00:12.323, duration_ms=12323, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 11:17:16], mode=WORKBENCH_START, duration=0:00:51.545, duration_ms=51545, data={}
+timestamp=[2023-12-07 11:17:24], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:02.151, duration_ms=2151, data={}
+timestamp=[2023-12-07 11:17:24], mode=WORKBENCH_UI_INIT, duration=0:00:07.875, duration_ms=7875, data={editors_count=6, platform_editors_count=2, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hdmi_workspace,snake_game,snake_game2,snake_game2_system,snake_game_system}
+timestamp=[2023-12-07 11:20:02], mode=BUILD, duration=0:00:00.861, duration_ms=861, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 11:20:17], mode=BUILD, duration=0:00:13.711, duration_ms=13711, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-09 19:37:52], mode=WORKBENCH_START, duration=0:00:40.199, duration_ms=40199, data={}
+timestamp=[2023-12-09 19:37:55], mode=WORKBENCH_UI_INIT, duration=0:00:03.109, duration_ms=3109, data={editors_count=6, platform_editors_count=2, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hdmi_workspace,snake_game,snake_game2,snake_game2_system,snake_game_system}
+timestamp=[2023-12-09 19:37:56], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:01.179, duration_ms=1179, data={}
+timestamp=[2023-12-09 19:40:31], mode=BUILD, duration=0:00:00.820, duration_ms=820, data={name=snake_game2, configuration=Debug, clean_build=false}
+timestamp=[2023-12-09 19:40:48], mode=BUILD, duration=0:00:13.876, duration_ms=13876, data={name=snake_game2_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-09 19:44:30], mode=BUILD, duration=0:00:08.011, duration_ms=8011, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-09 19:44:40], mode=BUILD, duration=0:00:09.659, duration_ms=9659, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-09 19:46:08], mode=BUILD, duration=0:00:01.035, duration_ms=1035, data={name=snake_game2, configuration=Debug, clean_build=false}
+timestamp=[2023-12-09 19:46:17], mode=BUILD, duration=0:00:08.529, duration_ms=8529, data={name=snake_game2_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 09:28:57], mode=WORKBENCH_START, duration=0:00:53.242, duration_ms=53242, data={}
+timestamp=[2023-12-11 09:29:00], mode=WORKBENCH_UI_INIT, duration=0:00:02.521, duration_ms=2521, data={editors_count=6, platform_editors_count=2, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hdmi_workspace,snake_game,snake_game2,snake_game2_system,snake_game_system}
+timestamp=[2023-12-11 09:29:01], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:01.382, duration_ms=1382, data={}
+timestamp=[2023-12-11 10:06:46], mode=BUILD, duration=0:00:03.964, duration_ms=3964, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:07:01], mode=BUILD, duration=0:00:14.416, duration_ms=14416, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:09:09], mode=BUILD, duration=0:00:00.560, duration_ms=560, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:09:19], mode=BUILD, duration=0:00:09.608, duration_ms=9608, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:44:33], mode=BUILD, duration=0:00:00.918, duration_ms=918, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:44:42], mode=BUILD, duration=0:00:08.945, duration_ms=8945, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:45:07], mode=BUILD, duration=0:00:00.527, duration_ms=527, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:45:16], mode=BUILD, duration=0:00:08.558, duration_ms=8558, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:46:13], mode=BUILD, duration=0:00:01.143, duration_ms=1143, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:46:21], mode=BUILD, duration=0:00:08.510, duration_ms=8510, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:48:18], mode=BUILD, duration=0:00:01.155, duration_ms=1155, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:48:27], mode=BUILD, duration=0:00:08.688, duration_ms=8688, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:49:55], mode=BUILD, duration=0:00:00.905, duration_ms=905, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:50:04], mode=BUILD, duration=0:00:08.615, duration_ms=8615, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:50:26], mode=BUILD, duration=0:00:00.593, duration_ms=593, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:50:35], mode=BUILD, duration=0:00:08.566, duration_ms=8566, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:51:39], mode=BUILD, duration=0:00:01.074, duration_ms=1074, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:51:48], mode=BUILD, duration=0:00:08.559, duration_ms=8559, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:53:06], mode=BUILD, duration=0:00:01.346, duration_ms=1346, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:53:15], mode=BUILD, duration=0:00:08.454, duration_ms=8454, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:54:39], mode=BUILD, duration=0:00:01.078, duration_ms=1078, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:54:48], mode=BUILD, duration=0:00:08.423, duration_ms=8423, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:54:59], mode=BUILD, duration=0:00:01.107, duration_ms=1107, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:55:08], mode=BUILD, duration=0:00:08.655, duration_ms=8655, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:55:20], mode=BUILD, duration=0:00:00.464, duration_ms=464, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 10:55:30], mode=BUILD, duration=0:00:09.512, duration_ms=9512, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 11:06:05], mode=BUILD, duration=0:00:01.506, duration_ms=1506, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 11:06:15], mode=BUILD, duration=0:00:09.370, duration_ms=9370, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 11:07:09], mode=BUILD, duration=0:00:00.472, duration_ms=472, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 11:07:19], mode=BUILD, duration=0:00:08.775, duration_ms=8775, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 11:11:29], mode=BUILD, duration=0:00:01.392, duration_ms=1392, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 11:11:39], mode=BUILD, duration=0:00:08.871, duration_ms=8871, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 11:12:25], mode=BUILD, duration=0:00:00.582, duration_ms=582, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 11:12:35], mode=BUILD, duration=0:00:09.120, duration_ms=9120, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 11:12:40], mode=BUILD, duration=0:00:01.154, duration_ms=1154, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-11 11:12:50], mode=BUILD, duration=0:00:09.165, duration_ms=9165, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-13 20:25:35], mode=WORKBENCH_START, duration=0:00:50.646, duration_ms=50646, data={}
+timestamp=[2023-12-13 20:25:39], mode=WORKBENCH_UI_INIT, duration=0:00:03.083, duration_ms=3083, data={editors_count=11, platform_editors_count=2, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hdmi_workspace,snake_game,snake_game2,snake_game2_system,snake_game_system}
+timestamp=[2023-12-13 20:25:39], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.964, duration_ms=964, data={}
+timestamp=[2023-12-26 15:58:03], mode=WORKBENCH_START, duration=0:00:53.080, duration_ms=53080, data={}
+timestamp=[2023-12-26 15:58:06], mode=WORKBENCH_UI_INIT, duration=0:00:02.524, duration_ms=2524, data={editors_count=11, platform_editors_count=2, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hdmi_workspace,snake_game,snake_game2,snake_game2_system,snake_game_system}
+timestamp=[2023-12-26 15:58:07], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.876, duration_ms=876, data={}
+timestamp=[2023-12-26 16:11:28], mode=PLATFORM_GENERATION, duration=0:00:20.405, duration_ms=20405, data={name=hdmi_workspace}
+timestamp=[2023-12-26 16:11:33], mode=BUILD, duration=0:00:02.210, duration_ms=2210, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 16:11:59], mode=BUILD, duration=0:00:00.649, duration_ms=649, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 16:13:55], mode=BUILD, duration=0:00:00.589, duration_ms=589, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:18:00], mode=BUILD, duration=0:00:00.797, duration_ms=797, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:18:10], mode=BUILD, duration=0:00:09.698, duration_ms=9698, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:19:06], mode=BUILD, duration=0:00:00.527, duration_ms=527, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:19:15], mode=BUILD, duration=0:00:08.675, duration_ms=8675, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:19:24], mode=BUILD, duration=0:00:00.573, duration_ms=573, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:19:32], mode=BUILD, duration=0:00:08.394, duration_ms=8394, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:20:36], mode=BUILD, duration=0:00:00.576, duration_ms=576, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:20:44], mode=BUILD, duration=0:00:08.385, duration_ms=8385, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:22:27], mode=BUILD, duration=0:00:00.597, duration_ms=597, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:22:36], mode=BUILD, duration=0:00:08.546, duration_ms=8546, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:22:49], mode=BUILD, duration=0:00:00.586, duration_ms=586, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:22:57], mode=BUILD, duration=0:00:08.512, duration_ms=8512, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:25:01], mode=BUILD, duration=0:00:00.578, duration_ms=578, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:25:09], mode=BUILD, duration=0:00:08.659, duration_ms=8659, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:27:36], mode=BUILD, duration=0:00:00.575, duration_ms=575, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:27:45], mode=BUILD, duration=0:00:08.621, duration_ms=8621, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:29:17], mode=BUILD, duration=0:00:00.531, duration_ms=531, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:29:26], mode=BUILD, duration=0:00:08.531, duration_ms=8531, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:31:23], mode=BUILD, duration=0:00:01.651, duration_ms=1651, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:31:32], mode=BUILD, duration=0:00:08.436, duration_ms=8436, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:32:56], mode=BUILD, duration=0:00:01.089, duration_ms=1089, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:33:05], mode=BUILD, duration=0:00:08.596, duration_ms=8596, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:38:43], mode=BUILD, duration=0:00:01.198, duration_ms=1198, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 17:38:52], mode=BUILD, duration=0:00:08.755, duration_ms=8755, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 18:14:27], mode=BUILD, duration=0:00:02.245, duration_ms=2245, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 18:14:39], mode=BUILD, duration=0:00:12.203, duration_ms=12203, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 18:14:54], mode=BUILD, duration=0:00:01.082, duration_ms=1082, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 18:15:03], mode=BUILD, duration=0:00:08.521, duration_ms=8521, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 18:22:13], mode=BUILD, duration=0:00:00.640, duration_ms=640, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 18:22:22], mode=BUILD, duration=0:00:08.887, duration_ms=8887, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 18:22:44], mode=BUILD, duration=0:00:01.207, duration_ms=1207, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 18:22:53], mode=BUILD, duration=0:00:08.560, duration_ms=8560, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 18:23:59], mode=BUILD, duration=0:00:01.157, duration_ms=1157, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 18:24:08], mode=BUILD, duration=0:00:08.552, duration_ms=8552, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 18:37:54], mode=BUILD, duration=0:00:01.078, duration_ms=1078, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 18:38:03], mode=BUILD, duration=0:00:08.913, duration_ms=8913, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 18:39:56], mode=BUILD, duration=0:00:01.128, duration_ms=1128, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 18:40:05], mode=BUILD, duration=0:00:08.702, duration_ms=8702, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 18:41:40], mode=BUILD, duration=0:00:01.100, duration_ms=1100, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 18:41:49], mode=BUILD, duration=0:00:08.616, duration_ms=8616, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 18:44:02], mode=BUILD, duration=0:00:01.085, duration_ms=1085, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-26 18:44:13], mode=BUILD, duration=0:00:10.473, duration_ms=10473, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 09:34:00], mode=WORKBENCH_START, duration=0:00:50.699, duration_ms=50699, data={}
+timestamp=[2023-12-29 09:34:02], mode=WORKBENCH_UI_INIT, duration=0:00:02.598, duration_ms=2598, data={editors_count=10, platform_editors_count=2, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hdmi_workspace,snake_game,snake_game2,snake_game2_system,snake_game_system}
+timestamp=[2023-12-29 09:34:03], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:01.543, duration_ms=1543, data={}
+timestamp=[2023-12-29 09:55:14], mode=BUILD, duration=0:00:05.630, duration_ms=5630, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 09:55:31], mode=BUILD, duration=0:00:16.708, duration_ms=16708, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 09:57:41], mode=BUILD, duration=0:00:01.460, duration_ms=1460, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 09:57:52], mode=BUILD, duration=0:00:10.880, duration_ms=10880, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:05:06], mode=BUILD, duration=0:00:01.391, duration_ms=1391, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:05:17], mode=BUILD, duration=0:00:10.475, duration_ms=10475, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:05:47], mode=BUILD, duration=0:00:01.276, duration_ms=1276, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:05:58], mode=BUILD, duration=0:00:10.144, duration_ms=10144, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:12:57], mode=BUILD, duration=0:00:00.719, duration_ms=719, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:13:07], mode=BUILD, duration=0:00:09.823, duration_ms=9823, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:14:05], mode=BUILD, duration=0:00:00.680, duration_ms=680, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:14:15], mode=BUILD, duration=0:00:09.847, duration_ms=9847, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:15:33], mode=BUILD, duration=0:00:01.195, duration_ms=1195, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:15:43], mode=BUILD, duration=0:00:09.524, duration_ms=9524, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:18:51], mode=BUILD, duration=0:00:01.270, duration_ms=1270, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:19:02], mode=BUILD, duration=0:00:10.326, duration_ms=10326, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:19:19], mode=BUILD, duration=0:00:01.243, duration_ms=1243, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:19:30], mode=BUILD, duration=0:00:10.545, duration_ms=10545, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:19:50], mode=BUILD, duration=0:00:01.281, duration_ms=1281, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:20:01], mode=BUILD, duration=0:00:10.094, duration_ms=10094, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:22:02], mode=BUILD, duration=0:00:01.217, duration_ms=1217, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:22:12], mode=BUILD, duration=0:00:10.025, duration_ms=10025, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:24:05], mode=BUILD, duration=0:00:01.313, duration_ms=1313, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:24:15], mode=BUILD, duration=0:00:09.868, duration_ms=9868, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:26:40], mode=BUILD, duration=0:00:01.258, duration_ms=1258, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:26:50], mode=BUILD, duration=0:00:09.822, duration_ms=9822, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:28:16], mode=BUILD, duration=0:00:01.263, duration_ms=1263, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:28:27], mode=BUILD, duration=0:00:10.199, duration_ms=10199, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:30:07], mode=BUILD, duration=0:00:01.274, duration_ms=1274, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:30:18], mode=BUILD, duration=0:00:10.122, duration_ms=10122, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:32:15], mode=BUILD, duration=0:00:01.260, duration_ms=1260, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:32:25], mode=BUILD, duration=0:00:10.003, duration_ms=10003, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:43:51], mode=BUILD, duration=0:00:01.151, duration_ms=1151, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:44:01], mode=BUILD, duration=0:00:09.403, duration_ms=9403, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:59:38], mode=BUILD, duration=0:00:01.212, duration_ms=1212, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 10:59:48], mode=BUILD, duration=0:00:09.459, duration_ms=9459, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 11:01:21], mode=BUILD, duration=0:00:01.149, duration_ms=1149, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 11:01:31], mode=BUILD, duration=0:00:09.379, duration_ms=9379, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 11:03:01], mode=BUILD, duration=0:00:01.206, duration_ms=1206, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 11:03:11], mode=BUILD, duration=0:00:09.491, duration_ms=9491, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 11:06:14], mode=BUILD, duration=0:00:01.138, duration_ms=1138, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 11:06:23], mode=BUILD, duration=0:00:08.901, duration_ms=8901, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 11:10:47], mode=BUILD, duration=0:00:01.085, duration_ms=1085, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 11:10:57], mode=BUILD, duration=0:00:08.819, duration_ms=8819, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 11:12:58], mode=BUILD, duration=0:00:01.255, duration_ms=1255, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 11:13:08], mode=BUILD, duration=0:00:09.967, duration_ms=9967, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 11:29:40], mode=BUILD, duration=0:00:01.600, duration_ms=1600, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 11:29:50], mode=BUILD, duration=0:00:09.677, duration_ms=9677, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 11:41:26], mode=BUILD, duration=0:00:01.150, duration_ms=1150, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 11:41:36], mode=BUILD, duration=0:00:09.503, duration_ms=9503, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 11:44:48], mode=BUILD, duration=0:00:01.262, duration_ms=1262, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 11:44:58], mode=BUILD, duration=0:00:09.454, duration_ms=9454, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 11:48:43], mode=BUILD, duration=0:00:01.197, duration_ms=1197, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 11:48:53], mode=BUILD, duration=0:00:09.497, duration_ms=9497, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 13:41:05], mode=WORKBENCH_START, duration=0:00:12.121, duration_ms=12121, data={}
+timestamp=[2023-12-29 13:41:06], mode=WORKBENCH_UI_INIT, duration=0:00:01.167, duration_ms=1167, data={editors_count=10, platform_editors_count=2, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hdmi_workspace,snake_game,snake_game2,snake_game2_system,snake_game_system}
+timestamp=[2023-12-29 13:41:07], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.096, duration_ms=96, data={}
+timestamp=[2023-12-29 14:05:35], mode=BUILD, duration=0:00:02.591, duration_ms=2591, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 14:05:48], mode=BUILD, duration=0:00:12.367, duration_ms=12367, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 14:06:39], mode=BUILD, duration=0:00:01.045, duration_ms=1045, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 14:06:48], mode=BUILD, duration=0:00:08.703, duration_ms=8703, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 14:07:01], mode=BUILD, duration=0:00:01.033, duration_ms=1033, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 14:07:10], mode=BUILD, duration=0:00:08.626, duration_ms=8626, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 14:39:31], mode=BUILD, duration=0:00:00.731, duration_ms=731, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 14:39:42], mode=BUILD, duration=0:00:10.208, duration_ms=10208, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 14:39:51], mode=BUILD, duration=0:00:01.299, duration_ms=1299, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2023-12-29 14:40:01], mode=BUILD, duration=0:00:10.055, duration_ms=10055, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2024-01-03 19:41:47], mode=WORKBENCH_START, duration=0:00:45.317, duration_ms=45317, data={}
+timestamp=[2024-01-03 19:41:50], mode=WORKBENCH_UI_INIT, duration=0:00:02.664, duration_ms=2664, data={editors_count=10, platform_editors_count=2, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hdmi_workspace,snake_game,snake_game2,snake_game2_system,snake_game_system}
+timestamp=[2024-01-03 19:41:50], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:01.067, duration_ms=1067, data={}
+timestamp=[2024-01-05 10:17:39], mode=WORKBENCH_START, duration=0:00:50.486, duration_ms=50486, data={}
+timestamp=[2024-01-05 10:17:43], mode=WORKBENCH_UI_INIT, duration=0:00:03.543, duration_ms=3543, data={editors_count=10, platform_editors_count=2, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hdmi_workspace,snake_game,snake_game2,snake_game2_system,snake_game_system}
+timestamp=[2024-01-05 10:17:44], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:01.656, duration_ms=1656, data={}
+timestamp=[2024-01-05 10:26:43], mode=PLATFORM_GENERATION, duration=0:00:25.431, duration_ms=25431, data={name=hdmi_workspace}
+timestamp=[2024-01-05 10:26:47], mode=BUILD, duration=0:00:04.276, duration_ms=4276, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2024-01-05 10:36:32], mode=BUILD, duration=0:00:01.200, duration_ms=1200, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2024-01-05 10:37:06], mode=BUILD, duration=0:00:00.486, duration_ms=486, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2024-01-05 10:40:22], mode=BUILD, duration=0:00:01.329, duration_ms=1329, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2024-01-05 10:42:12], mode=BUILD, duration=0:00:01.265, duration_ms=1265, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2024-01-05 10:43:35], mode=BUILD, duration=0:00:01.209, duration_ms=1209, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2024-01-05 10:47:23], mode=BUILD, duration=0:00:01.369, duration_ms=1369, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2024-01-05 10:49:19], mode=BUILD, duration=0:00:01.224, duration_ms=1224, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2024-01-05 10:50:45], mode=BUILD, duration=0:00:01.203, duration_ms=1203, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2024-01-05 10:56:07], mode=BUILD, duration=0:00:01.210, duration_ms=1210, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2024-01-05 10:56:19], mode=BUILD, duration=0:00:11.093, duration_ms=11093, data={name=snake_game_system, configuration=Debug, clean_build=false}
+timestamp=[2024-01-12 11:46:19], mode=WORKBENCH_START, duration=0:00:52.603, duration_ms=52603, data={}
+timestamp=[2024-01-12 11:46:22], mode=WORKBENCH_UI_INIT, duration=0:00:03.005, duration_ms=3005, data={editors_count=10, platform_editors_count=2, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hdmi_workspace,snake_game,snake_game2,snake_game2_system,snake_game_system}
+timestamp=[2024-01-12 11:46:23], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:01.747, duration_ms=1747, data={}
+timestamp=[2024-01-12 11:48:44], mode=BUILD, duration=0:00:05.157, duration_ms=5157, data={name=snake_game, configuration=Debug, clean_build=false}
+timestamp=[2024-01-12 11:54:02], mode=BUILD, duration=0:00:01.542, duration_ms=1542, data={name=snake_game, configuration=Debug, clean_build=false}

@@ -1,0 +1,10 @@
+19:46:08 **** Incremental Build of configuration Debug for project snake_game2_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 50695 D:/ES/workspace_hdmi/hdmi_workspace/export/hdmi_workspace/hdmi_workspace.xpfm standalone_domain D:/ES/workspace_hdmi/snake_game2_system/Debug/system.bif
+sdcard_gen --xpfm D:/ES/workspace_hdmi/hdmi_workspace/export/hdmi_workspace/hdmi_workspace.xpfm --sys_config hdmi_workspace --bif D:/ES/workspace_hdmi/snake_game2_system/Debug/system.bif --bitstream D:/ES/workspace_hdmi/snake_game2/_ide/bitstream/design_1_wrapper.bit --elf D:/ES/workspace_hdmi/snake_game2/Debug/snake_game2.elf,ps7_cortexa9_0
+creating BOOT.BIN using D:/ES/workspace_hdmi/snake_game2/_ide/bitstream/design_1_wrapper.bit
+Running D:/Xilinx/Vitis/2020.2/bin/bootgen  -image D:/ES/workspace_hdmi/snake_game2_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+19:46:17 Build Finished (took 8s.522ms)
+

@@ -1,0 +1,40 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"1.1204",
+   "Default View_TopLeft":"126,-12",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0r6  2020-01-29 bk=1.5227 VDI=41 GEI=36 GUI=JA:10.0 non-TLS
+#  -string -flagsOSRD
+preplace port hdmi_out -pg 1 -lvl 5 -x 1650 -y 250 -defaultsOSRD
+preplace port DDR -pg 1 -lvl 5 -x 1650 -y 80 -defaultsOSRD
+preplace port FIXED_IO -pg 1 -lvl 5 -x 1650 -y 100 -defaultsOSRD
+preplace port btns_4bits -pg 1 -lvl 5 -x 1650 -y 330 -defaultsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 4 -x 1385 -y 130 -defaultsOSRD
+preplace inst hdmi -pg 1 -lvl 3 -x 980 -y 260 -defaultsOSRD
+preplace inst ps7_0_axi_periph -pg 1 -lvl 2 -x 550 -y 240 -defaultsOSRD
+preplace inst rst_ps7_0_100M -pg 1 -lvl 1 -x 200 -y 110 -defaultsOSRD
+preplace inst axi_gpio_0 -pg 1 -lvl 4 -x 1385 -y 330 -defaultsOSRD
+preplace netloc processing_system7_0_FCLK_CLK0 1 0 5 30 210 390 420 710 360 1120 240 1620
+preplace netloc processing_system7_0_FCLK_RESET0_N 1 0 5 20 10 NJ 10 NJ 10 NJ 10 1630
+preplace netloc rst_ps7_0_100M_peripheral_aresetn 1 1 3 370 430 720J 370 1140
+preplace netloc rst_ps7_0_100M_interconnect_aresetn 1 1 1 380 130n
+preplace netloc hdmi_hdmi_out 1 3 2 NJ 250 NJ
+preplace netloc processing_system7_0_M_AXI_GP0 1 1 4 380 20 NJ 20 NJ 20 1620
+preplace netloc ps7_0_axi_periph_M00_AXI 1 2 1 700 210n
+preplace netloc ps7_0_axi_periph_M01_AXI 1 2 1 700 230n
+preplace netloc ps7_0_axi_periph_M02_AXI 1 2 1 700 250n
+preplace netloc hdmi_M00_AXI 1 3 1 1110 120n
+preplace netloc processing_system7_0_DDR 1 4 1 NJ 80
+preplace netloc processing_system7_0_FIXED_IO 1 4 1 NJ 100
+preplace netloc axi_gpio_0_GPIO 1 4 1 N 330
+preplace netloc ps7_0_axi_periph_M03_AXI 1 2 2 700 350 1130J
+levelinfo -pg 1 0 200 550 980 1385 1650
+pagesize -pg 1 -db -bbox -sgen 0 0 1770 870
+"
+}
+{
+   "da_axi4_cnt":"5",
+   "da_board_cnt":"1",
+   "da_clkrst_cnt":"3",
+   "da_ps7_cnt":"1"
+}

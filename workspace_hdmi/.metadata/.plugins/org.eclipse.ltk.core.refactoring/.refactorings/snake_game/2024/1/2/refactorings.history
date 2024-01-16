@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;snake_game/src/hdmi_example_anim.c&apos; to &apos;hdmi_snake_game.c&apos;" description="Rename resource &apos;hdmi_example_anim.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/hdmi_example_anim.c" name="hdmi_snake_game.c" stamp="1705058865914" updateReferences="true"/>
+</session>
