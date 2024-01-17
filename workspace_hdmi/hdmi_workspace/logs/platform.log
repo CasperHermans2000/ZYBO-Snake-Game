@@ -5295,3 +5295,749 @@ TRACE::2024-01-05.10:26:42::SCWMssOS::DEBUG:  swdes dump  D:/ES/workspace_hdmi/h
 D:/ES/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
 
 TRACE::2024-01-05.10:26:42::SCWMssOS::Sw design exists and opened at  D:/ES/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:36:56::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:36:56::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:36:56::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:00::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:00::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:00::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:00::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-01-17.12:37:05::SCWPlatform::Opened new HwDB with name design_1_wrapper
+TRACE::2024-01-17.12:37:05::SCWReader::Active system found as  hdmi_workspace
+TRACE::2024-01-17.12:37:05::SCWReader::Handling sysconfig hdmi_workspace
+TRACE::2024-01-17.12:37:05::SCWDomain::checking for install qemu data   : 
+TRACE::2024-01-17.12:37:05::SCWDomain:: Using the QEMU Data from install at  : D:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2024-01-17.12:37:05::SCWDomain:: Using the QEMU args  from install at  : D:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2024-01-17.12:37:05::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:05::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:05::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:05::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:05::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:05::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:05::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2024-01-17.12:37:05::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2024-01-17.12:37:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:05::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:05::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:05::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:05::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:05::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:05::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:05::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2024-01-17.12:37:05::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2024-01-17.12:37:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:05::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:05::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:05::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:05::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:05::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:05::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:05::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2024-01-17.12:37:05::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2024-01-17.12:37:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:05::SCWReader::Boot application domain added for zynq_fsbl
+TRACE::2024-01-17.12:37:05::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:05::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:05::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:05::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:05::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:05::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:05::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2024-01-17.12:37:05::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2024-01-17.12:37:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:05::SCWMssOS::Checking the sw design at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:05::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-01-17.12:37:05::SCWMssOS::No sw design opened at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:05::SCWMssOS::mss exists loading the mss file  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:05::SCWMssOS::Opened the sw design from mss  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:05::SCWMssOS::Adding the swdes entry C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name system
+TRACE::2024-01-17.12:37:05::SCWMssOS::updating the scw layer about changes
+TRACE::2024-01-17.12:37:05::SCWMssOS::Opened the sw design.  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:05::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:05::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:05::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:05::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:05::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:05::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:05::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2024-01-17.12:37:05::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2024-01-17.12:37:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:05::SCWMssOS::Checking the sw design at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-01-17.12:37:06::SCWMssOS::Sw design exists and opened at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:06::SCWMssOS:: library already available in sw design:  xilffs:4.4
+TRACE::2024-01-17.12:37:06::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:06::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:06::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2024-01-17.12:37:06::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2024-01-17.12:37:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:06::SCWMssOS::Checking the sw design at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:06::SCWMssOS::DEBUG:  swdes dump  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-01-17.12:37:06::SCWMssOS::Sw design exists and opened at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:06::SCWMssOS:: library already available in sw design:  xilrsa:1.6
+TRACE::2024-01-17.12:37:06::SCWMssOS::Saving the mss changes C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:06::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-01-17.12:37:06::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-01-17.12:37:06::SCWMssOS::Commit changes completed.
+TRACE::2024-01-17.12:37:06::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-01-17.12:37:06::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-01-17.12:37:06::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:06::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:06::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2024-01-17.12:37:06::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2024-01-17.12:37:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:06::SCWMssOS::Checking the sw design at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:06::SCWMssOS::DEBUG:  swdes dump  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-01-17.12:37:06::SCWMssOS::Sw design exists and opened at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:06::SCWReader::No isolation master present  
+TRACE::2024-01-17.12:37:06::SCWDomain::checking for install qemu data   : 
+TRACE::2024-01-17.12:37:06::SCWDomain:: Using the QEMU Data from install at  : D:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2024-01-17.12:37:06::SCWDomain:: Using the QEMU args  from install at  : D:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2024-01-17.12:37:06::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:06::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:06::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2024-01-17.12:37:06::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2024-01-17.12:37:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:06::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:06::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:06::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2024-01-17.12:37:06::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2024-01-17.12:37:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:06::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:06::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:06::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2024-01-17.12:37:06::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2024-01-17.12:37:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:06::SCWMssOS::Checking the sw design at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:06::SCWMssOS::DEBUG:  swdes dump  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-01-17.12:37:06::SCWMssOS::No sw design opened at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:06::SCWMssOS::mss exists loading the mss file  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:06::SCWMssOS::Opened the sw design from mss  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:06::SCWMssOS::Adding the swdes entry C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss with des name system_0
+TRACE::2024-01-17.12:37:06::SCWMssOS::updating the scw layer about changes
+TRACE::2024-01-17.12:37:06::SCWMssOS::Opened the sw design.  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:06::SCWMssOS::Saving the mss changes C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:06::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-01-17.12:37:06::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-01-17.12:37:06::SCWMssOS::Commit changes completed.
+TRACE::2024-01-17.12:37:06::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-01-17.12:37:06::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-01-17.12:37:06::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:06::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:06::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:06::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2024-01-17.12:37:06::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2024-01-17.12:37:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:06::SCWMssOS::Checking the sw design at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:06::SCWMssOS::DEBUG:  swdes dump  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-01-17.12:37:06::SCWMssOS::Sw design exists and opened at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:06::SCWReader::No isolation master present  
+TRACE::2024-01-17.12:37:42::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/tempdsa/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:42::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/tempdsa/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:42::SCWPlatform:: Platform location is C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/tempdsa
+TRACE::2024-01-17.12:37:42::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/tempdsa/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:42::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:45::SCWMssOS::Doing hw sync for the mss in domain: zynq_fsbl
+TRACE::2024-01-17.12:37:45::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:45::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2024-01-17.12:37:45::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2024-01-17.12:37:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:45::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:45::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2024-01-17.12:37:45::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2024-01-17.12:37:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:45::SCWMssOS::Checking the sw design at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:45::SCWMssOS::DEBUG:  swdes dump  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-01-17.12:37:45::SCWMssOS::Sw design exists and opened at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:45::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/tempdsa/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/tempdsa/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/tempdsa/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/tempdsa
+TRACE::2024-01-17.12:37:45::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/tempdsa/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:45::SCWPlatform::update - Opened existing hwdb design_1_wrapper_0
+TRACE::2024-01-17.12:37:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:45::SCWMssOS::Doing hw sync for the mss in domain: standalone_domain
+TRACE::2024-01-17.12:37:45::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:45::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2024-01-17.12:37:45::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2024-01-17.12:37:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:45::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:45::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:45::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2024-01-17.12:37:45::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2024-01-17.12:37:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:45::SCWMssOS::Checking the sw design at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:45::SCWMssOS::DEBUG:  swdes dump  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-01-17.12:37:45::SCWMssOS::Sw design exists and opened at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:45::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/tempdsa/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/tempdsa/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/tempdsa/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/tempdsa
+TRACE::2024-01-17.12:37:45::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/tempdsa/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:45::SCWPlatform::update - Opened existing hwdb design_1_wrapper_0
+TRACE::2024-01-17.12:37:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:45::SCWMssOS::Saving the mss changes C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:45::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-01-17.12:37:45::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-01-17.12:37:45::SCWMssOS::Commit changes completed.
+TRACE::2024-01-17.12:37:45::SCWMssOS::Completed hw sync for the mss in domain: zynq_fsbl
+TRACE::2024-01-17.12:37:45::SCWMssOS::Removing the swdes entry for  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:45::SCWMssOS::Saving the mss changes C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:45::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-01-17.12:37:45::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-01-17.12:37:45::SCWMssOS::Commit changes completed.
+TRACE::2024-01-17.12:37:45::SCWMssOS::Completed hw sync for the mss in domain: standalone_domain
+TRACE::2024-01-17.12:37:45::SCWMssOS::Removing the swdes entry for  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:45::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:45::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:45::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:45::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-01-17.12:37:49::SCWPlatform::Opened new HwDB with name design_1_wrapper_1
+TRACE::2024-01-17.12:37:49::SCWMssOS::Saving the mss changes C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:49::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name system
+TRACE::2024-01-17.12:37:49::SCWMssOS::Writing the mss file completed C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:49::SCWMssOS::Commit changes completed.
+TRACE::2024-01-17.12:37:49::SCWMssOS::Saving the mss changes C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:49::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss with des name system_0
+TRACE::2024-01-17.12:37:49::SCWMssOS::Writing the mss file completed C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:49::SCWMssOS::Commit changes completed.
+TRACE::2024-01-17.12:37:49::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:49::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:49::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:49::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:49::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:49::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:49::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2024-01-17.12:37:49::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2024-01-17.12:37:49::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:49::SCWMssOS::Checking the sw design at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:49::SCWMssOS::DEBUG:  swdes dump  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-01-17.12:37:49::SCWMssOS::Sw design exists and opened at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:49::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:49::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:49::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:49::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:49::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:49::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:49::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2024-01-17.12:37:49::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2024-01-17.12:37:49::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:49::SCWMssOS::Checking the sw design at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:49::SCWMssOS::DEBUG:  swdes dump  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-01-17.12:37:49::SCWMssOS::Sw design exists and opened at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:49::SCWWriter::formatted JSON is {
+	"platformName":	"hdmi_workspace",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"hdmi_workspace",
+	"platHandOff":	"C:/Users/caspe/ZYBO-Snake-Game/hdmi_project/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"hdmi_workspace",
+	"systems":	[{
+			"systemName":	"hdmi_workspace",
+			"systemDesc":	"hdmi_workspace",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"hdmi_workspace",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"b89cc3dd529c97cbfa818b36d6a7f9df",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.4", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"D:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt",
+					"qemuData":	"D:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"09e6fd9a0df72c7e383ba20c46a1edc5",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-01-17.12:37:50::SCWPlatform::Clearing the existing platform
+TRACE::2024-01-17.12:37:50::SCWSystem::Clearing the existing sysconfig
+TRACE::2024-01-17.12:37:50::SCWBDomain::clearing the fsbl build
+TRACE::2024-01-17.12:37:50::SCWMssOS::Removing the swdes entry for  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:50::SCWMssOS::Removing the swdes entry for  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:50::SCWSystem::Clearing the domains completed.
+TRACE::2024-01-17.12:37:50::SCWPlatform::Clearing the opened hw db.
+TRACE::2024-01-17.12:37:50::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:50::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:50::SCWPlatform:: Platform location is C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:50::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:50::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:50::SCWPlatform::Removing the HwDB with name C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:50::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:50::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:50::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:50::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:50::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:50::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:50::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-01-17.12:37:53::SCWPlatform::Opened new HwDB with name design_1_wrapper_2
+TRACE::2024-01-17.12:37:53::SCWReader::Active system found as  hdmi_workspace
+TRACE::2024-01-17.12:37:53::SCWReader::Handling sysconfig hdmi_workspace
+TRACE::2024-01-17.12:37:53::SCWDomain::checking for install qemu data   : 
+TRACE::2024-01-17.12:37:53::SCWDomain:: Using the QEMU Data from install at  : D:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2024-01-17.12:37:53::SCWDomain:: Using the QEMU args  from install at  : D:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2024-01-17.12:37:53::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:53::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2024-01-17.12:37:53::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2024-01-17.12:37:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:53::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:53::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2024-01-17.12:37:53::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2024-01-17.12:37:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:53::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:53::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2024-01-17.12:37:53::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2024-01-17.12:37:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:53::SCWReader::Boot application domain added for zynq_fsbl
+TRACE::2024-01-17.12:37:53::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:53::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2024-01-17.12:37:53::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2024-01-17.12:37:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:53::SCWMssOS::Checking the sw design at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:53::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-01-17.12:37:53::SCWMssOS::No sw design opened at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:53::SCWMssOS::mss exists loading the mss file  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:53::SCWMssOS::Opened the sw design from mss  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:53::SCWMssOS::Adding the swdes entry C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name system
+TRACE::2024-01-17.12:37:53::SCWMssOS::updating the scw layer about changes
+TRACE::2024-01-17.12:37:53::SCWMssOS::Opened the sw design.  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:53::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:53::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2024-01-17.12:37:53::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2024-01-17.12:37:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:53::SCWMssOS::Checking the sw design at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:53::SCWMssOS::DEBUG:  swdes dump  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-01-17.12:37:53::SCWMssOS::Sw design exists and opened at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:53::SCWMssOS:: library already available in sw design:  xilffs:4.4
+TRACE::2024-01-17.12:37:53::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:53::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2024-01-17.12:37:53::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2024-01-17.12:37:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:53::SCWMssOS::Checking the sw design at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:53::SCWMssOS::DEBUG:  swdes dump  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-01-17.12:37:53::SCWMssOS::Sw design exists and opened at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:53::SCWMssOS:: library already available in sw design:  xilrsa:1.6
+TRACE::2024-01-17.12:37:53::SCWMssOS::Saving the mss changes C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:53::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-01-17.12:37:53::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-01-17.12:37:53::SCWMssOS::Commit changes completed.
+TRACE::2024-01-17.12:37:53::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-01-17.12:37:53::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-01-17.12:37:53::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:53::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2024-01-17.12:37:53::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2024-01-17.12:37:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:53::SCWMssOS::Checking the sw design at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:53::SCWMssOS::DEBUG:  swdes dump  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-01-17.12:37:53::SCWMssOS::Sw design exists and opened at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:37:53::SCWReader::No isolation master present  
+TRACE::2024-01-17.12:37:53::SCWDomain::checking for install qemu data   : 
+TRACE::2024-01-17.12:37:53::SCWDomain:: Using the QEMU Data from install at  : D:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2024-01-17.12:37:53::SCWDomain:: Using the QEMU args  from install at  : D:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2024-01-17.12:37:53::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:53::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2024-01-17.12:37:53::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2024-01-17.12:37:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:53::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:53::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2024-01-17.12:37:53::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2024-01-17.12:37:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:53::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:53::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:53::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2024-01-17.12:37:53::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2024-01-17.12:37:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:53::SCWMssOS::Checking the sw design at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:53::SCWMssOS::DEBUG:  swdes dump  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-01-17.12:37:53::SCWMssOS::No sw design opened at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:53::SCWMssOS::mss exists loading the mss file  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:53::SCWMssOS::Opened the sw design from mss  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:53::SCWMssOS::Adding the swdes entry C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss with des name system_0
+TRACE::2024-01-17.12:37:53::SCWMssOS::updating the scw layer about changes
+TRACE::2024-01-17.12:37:54::SCWMssOS::Opened the sw design.  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:54::SCWMssOS::Saving the mss changes C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:54::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-01-17.12:37:54::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-01-17.12:37:54::SCWMssOS::Commit changes completed.
+TRACE::2024-01-17.12:37:54::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-01-17.12:37:54::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-01-17.12:37:54::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:54::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:54::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:54::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:37:54::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:37:54::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:37:54::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2024-01-17.12:37:54::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2024-01-17.12:37:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:37:54::SCWMssOS::Checking the sw design at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:54::SCWMssOS::DEBUG:  swdes dump  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-01-17.12:37:54::SCWMssOS::Sw design exists and opened at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:37:54::SCWReader::No isolation master present  
+LOG::2024-01-17.12:38:09::SCWPlatform::Started generating the artifacts platform hdmi_workspace
+TRACE::2024-01-17.12:38:09::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-01-17.12:38:09::SCWPlatform::Started generating the artifacts for system configuration hdmi_workspace
+LOG::2024-01-17.12:38:09::SCWSystem::Checking the domain zynq_fsbl
+LOG::2024-01-17.12:38:09::SCWSystem::Doing application build for :  zynq_fsbl
+TRACE::2024-01-17.12:38:09::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2024-01-17.12:38:09::SCWDomain::Skipping the build for domain :  zynq_fsbl
+LOG::2024-01-17.12:38:09::SCWSystem::Checking the domain standalone_domain
+LOG::2024-01-17.12:38:09::SCWSystem::Not a boot domain 
+LOG::2024-01-17.12:38:09::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2024-01-17.12:38:09::SCWDomain::Generating domain artifcats
+TRACE::2024-01-17.12:38:09::SCWMssOS::Generating standalone artifcats
+TRACE::2024-01-17.12:38:09::SCWMssOS::Copying the qemu file from  D:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt To C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/export/hdmi_workspace/sw/hdmi_workspace/qemu/
+TRACE::2024-01-17.12:38:09::SCWMssOS::Copying the qemu file from  D:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt To C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/export/hdmi_workspace/sw/hdmi_workspace/standalone_domain/qemu/
+TRACE::2024-01-17.12:38:09::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-01-17.12:38:09::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:38:09::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:38:09::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:38:09::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:38:09::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:38:09::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:38:09::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2024-01-17.12:38:09::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2024-01-17.12:38:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:38:09::SCWMssOS::Checking the sw design at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:38:09::SCWMssOS::DEBUG:  swdes dump  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-01-17.12:38:09::SCWMssOS::Sw design exists and opened at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:38:09::SCWMssOS::Completed writing the mss file at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2024-01-17.12:38:09::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:38:09::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-01-17.12:38:09::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-01-17.12:38:09::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2024-01-17.12:38:09::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-01-17.12:38:09::SCWMssOS::Copying to export directory.
+TRACE::2024-01-17.12:38:10::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-01-17.12:38:10::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-01-17.12:38:10::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2024-01-17.12:38:10::SCWSystem::Completed Processing the sysconfig hdmi_workspace
+LOG::2024-01-17.12:38:10::SCWPlatform::Completed generating the artifacts for system configuration hdmi_workspace
+TRACE::2024-01-17.12:38:10::SCWPlatform::Started preparing the platform 
+TRACE::2024-01-17.12:38:10::SCWSystem::Writing the bif file for system config hdmi_workspace
+TRACE::2024-01-17.12:38:10::SCWSystem::dir created 
+TRACE::2024-01-17.12:38:10::SCWSystem::Writing the bif 
+TRACE::2024-01-17.12:38:10::SCWPlatform::Started writing the spfm file 
+TRACE::2024-01-17.12:38:10::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-01-17.12:38:10::SCWPlatform::Completed generating the platform
+TRACE::2024-01-17.12:38:10::SCWMssOS::Saving the mss changes C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:38:10::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-01-17.12:38:10::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-01-17.12:38:10::SCWMssOS::Commit changes completed.
+TRACE::2024-01-17.12:38:10::SCWMssOS::Saving the mss changes C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:38:10::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-01-17.12:38:10::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-01-17.12:38:10::SCWMssOS::Commit changes completed.
+TRACE::2024-01-17.12:38:10::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:38:10::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:38:10::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:38:10::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:38:10::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:38:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:38:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2024-01-17.12:38:10::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2024-01-17.12:38:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:38:10::SCWMssOS::Checking the sw design at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:38:10::SCWMssOS::DEBUG:  swdes dump  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-01-17.12:38:10::SCWMssOS::Sw design exists and opened at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-01-17.12:38:10::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:38:10::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:38:10::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:38:10::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:38:10::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:38:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:38:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2024-01-17.12:38:10::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2024-01-17.12:38:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:38:10::SCWMssOS::Checking the sw design at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:38:10::SCWMssOS::DEBUG:  swdes dump  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-01-17.12:38:10::SCWMssOS::Sw design exists and opened at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:38:10::SCWWriter::formatted JSON is {
+	"platformName":	"hdmi_workspace",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"hdmi_workspace",
+	"platHandOff":	"C:/Users/caspe/ZYBO-Snake-Game/hdmi_project/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"hdmi_workspace",
+	"systems":	[{
+			"systemName":	"hdmi_workspace",
+			"systemDesc":	"hdmi_workspace",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"hdmi_workspace",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"b89cc3dd529c97cbfa818b36d6a7f9df",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.4", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"D:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt",
+					"qemuData":	"D:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"09e6fd9a0df72c7e383ba20c46a1edc5",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-01-17.12:38:10::SCWPlatform::updated the xpfm file.
+TRACE::2024-01-17.12:38:10::SCWPlatform::Trying to open the hw design at C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:38:10::SCWPlatform::DSA given C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:38:10::SCWPlatform::DSA absoulate path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:38:10::SCWPlatform::DSA directory C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw
+TRACE::2024-01-17.12:38:10::SCWPlatform:: Platform Path C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/hw/design_1_wrapper.xsa
+TRACE::2024-01-17.12:38:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2024-01-17.12:38:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2024-01-17.12:38:10::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2024-01-17.12:38:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-17.12:38:10::SCWMssOS::Checking the sw design at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-01-17.12:38:10::SCWMssOS::DEBUG:  swdes dump  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-01-17.12:38:10::SCWMssOS::Sw design exists and opened at  C:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/ps7_cortexa9_0/standalone_domain/bsp/system.mss

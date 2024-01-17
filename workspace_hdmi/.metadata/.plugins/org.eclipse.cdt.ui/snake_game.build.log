@@ -1,17 +1,41 @@
-11:54:01 **** Incremental Build of configuration Debug for project snake_game ****
+12:38:23 **** Incremental Build of configuration Debug for project snake_game ****
 make all 
 make --no-print-directory pre-build
 a9-linaro-pre-build-step
 ' '
 make --no-print-directory main-build
-'Building file: ../src/hdmi_example_anim.c'
+'Building file: ../src/zybo_z7_hdmi/display_ctrl.c'
 'Invoking: ARM v7 gcc compiler'
-arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi_example_anim.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -ID:/ES/workspace_hdmi/hdmi_workspace/export/hdmi_workspace/sw/hdmi_workspace/standalone_domain/bspinclude/include -MMD -MP -MF"src/hdmi_example_anim.d" -MT"src/hdmi_example_anim.o" -o "src/hdmi_example_anim.o" "../src/hdmi_example_anim.c"
-'Finished building: ../src/hdmi_example_anim.c'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/zybo_z7_hdmi/display_ctrl.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -IC:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/export/hdmi_workspace/sw/hdmi_workspace/standalone_domain/bspinclude/include -MMD -MP -MF"src/zybo_z7_hdmi/display_ctrl.d" -MT"src/zybo_z7_hdmi/display_ctrl.o" -o "src/zybo_z7_hdmi/display_ctrl.o" "../src/zybo_z7_hdmi/display_ctrl.c"
+'Finished building: ../src/zybo_z7_hdmi/display_ctrl.c'
+' '
+'Building file: ../src/zybo_z7_hdmi/dynclk.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/zybo_z7_hdmi/dynclk.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -IC:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/export/hdmi_workspace/sw/hdmi_workspace/standalone_domain/bspinclude/include -MMD -MP -MF"src/zybo_z7_hdmi/dynclk.d" -MT"src/zybo_z7_hdmi/dynclk.o" -o "src/zybo_z7_hdmi/dynclk.o" "../src/zybo_z7_hdmi/dynclk.c"
+'Finished building: ../src/zybo_z7_hdmi/dynclk.c'
+' '
+'Building file: ../src/hdmi_snake_game.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi_snake_game.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -IC:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/export/hdmi_workspace/sw/hdmi_workspace/standalone_domain/bspinclude/include -MMD -MP -MF"src/hdmi_snake_game.d" -MT"src/hdmi_snake_game.o" -o "src/hdmi_snake_game.o" "../src/hdmi_snake_game.c"
+'Finished building: ../src/hdmi_snake_game.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -IC:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/export/hdmi_workspace/sw/hdmi_workspace/standalone_domain/bspinclude/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building file: ../src/target_generator.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/target_generator.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -IC:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/export/hdmi_workspace/sw/hdmi_workspace/standalone_domain/bspinclude/include -MMD -MP -MF"src/target_generator.d" -MT"src/target_generator.o" -o "src/target_generator.o" "../src/target_generator.c"
+../src/target_generator.c: In function 'generate_target_X':
+../src/target_generator.c:9:1: warning: control reaches end of non-void function [-Wreturn-type]
+    9 | }
+      | ^
+'Finished building: ../src/target_generator.c'
 ' '
 'Building target: snake_game.elf'
 'Invoking: ARM v7 gcc linker'
-arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -LD:/ES/workspace_hdmi/hdmi_workspace/export/hdmi_workspace/sw/hdmi_workspace/standalone_domain/bsplib/lib -o "snake_game.elf"  ./src/zybo_z7_hdmi/display_ctrl.o ./src/zybo_z7_hdmi/dynclk.o  ./src/hdmi_example_anim.o ./src/platform.o ./src/target_generator.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -LC:/Users/caspe/ZYBO-Snake-Game/workspace_hdmi/hdmi_workspace/export/hdmi_workspace/sw/hdmi_workspace/standalone_domain/bsplib/lib -o "snake_game.elf"  ./src/zybo_z7_hdmi/display_ctrl.o ./src/zybo_z7_hdmi/dynclk.o  ./src/hdmi_snake_game.o ./src/platform.o ./src/target_generator.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
 'Finished building target: snake_game.elf'
 ' '
 'Invoking: ARM v7 Print Size'
@@ -21,5 +45,5 @@ arm-none-eabi-size snake_game.elf  |tee "snake_game.elf.size"
 'Finished building: snake_game.elf.size'
 ' '
 
-11:54:02 Build Finished (took 1s.528ms)
+12:38:31 Build Finished (took 7s.463ms)
 

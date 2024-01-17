@@ -22,3 +22,6 @@ platform active {hdmi_workspace}
 platform generate -domains 
 platform generate
 platform generate
+platform active {hdmi_workspace}
+platform config -updatehw {C:/Users/caspe/ZYBO-Snake-Game/hdmi_project/design_1_wrapper.xsa}
+platform generate -domains 
