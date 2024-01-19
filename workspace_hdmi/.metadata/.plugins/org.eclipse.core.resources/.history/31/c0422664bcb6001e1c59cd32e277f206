@@ -200,8 +200,6 @@ int main(void) {
 						snake_ypos[0] = 0;
 						snake_xpos[1] = 0;
 						snake_ypos[1] = 1;
-						snake_xpos[2] = 1;
-						snake_ypos[2] = 1;
 
 						snake_length = 2;
 						snake_turn = 600000;
@@ -228,8 +226,6 @@ int main(void) {
 						snake_ypos[0] = 0;
 						snake_xpos[1] = 0;
 						snake_ypos[1] = 1;
-						snake_xpos[2] = 1;
-						snake_ypos[2] = 1;
 
 						snake_length = 2;
 						snake_turn = 600000;

@@ -37,7 +37,7 @@ int prev_btn_value = 0;
 
 void draw_block(int x, int y, int size, int colour, int pixel_stride, u32* frame)
 {
-	// Draw square on screen
+	// Draw square on the screen
 	for (int pixel_x = x; pixel_x < x+size; pixel_x++) {
 		for (int pixel_y = y; pixel_y < y+size; pixel_y++) {
 			frame[pixel_y*pixel_stride + pixel_x] = colour;
@@ -82,19 +82,18 @@ int main(void) {
 	int snake_xpos[array_size];
 	int snake_ypos[array_size];
 
-	int gridcell_size = 64; //Size of a square
+	int gridcell_size = 64;
 	int grid_width = (width/gridcell_size);
 	int grid_height = (height/gridcell_size);
 
-	int btn_time = 700000; //The amount of time it takes before a button can be pressed again
+	int btn_time = 3500;
 	int btn_delay = btn_time;
 
 	int timer = 0;
 		int btn_pressed = 0;
-		int snake_turn = 600000; //The amount of time it takes before the snake moves
+		int snake_turn = 3000;
 		int snake_direction = RIGHT;
 
-		// Initial position
 		snake_xpos[0] = 0;
 		snake_ypos[0] = 0;
 		snake_xpos[1] = 0;
@@ -105,6 +104,7 @@ int main(void) {
 		//snake_ypos[3] = 2;
 		//snake_xpos[4] = 2;
 		//snake_ypos[4] = 2;
+
 
 		int snake_length = 2;
 		int game_over = 0;
@@ -127,6 +127,7 @@ int main(void) {
 
 			//Read button value
 			btn_value = Xil_In32(BTNS_ADDRESS);
+			xil_printf("%d", btn_value);
 			if (btn_pressed == 0 && btn_delay == 0)
 			{
 				if (btn_value == 1) //Right button
@@ -139,8 +140,8 @@ int main(void) {
 					}
 				btn_pressed = 1;
 				btn_delay = btn_time;
-				//xil_printf("/n Direction:");
-				//xil_printf("%d", snake_direction);
+				xil_printf("/n Direction:");
+				xil_printf("%d", snake_direction);
 				}
 
 				if (btn_value == 8) //Left button
@@ -154,8 +155,8 @@ int main(void) {
 					}
 				btn_pressed = 1;
 				btn_delay = btn_time;
-				//xil_printf("/n Direction:");
-				//xil_printf("%d", snake_direction);
+				xil_printf("/n Direction:");
+				xil_printf("%d", snake_direction);
 				}
 			}
 
@@ -202,18 +203,22 @@ int main(void) {
 						snake_ypos[1] = 1;
 						snake_xpos[2] = 1;
 						snake_ypos[2] = 1;
+						snake_xpos[3] = 1;
+						snake_ypos[3] = 2;
+						snake_xpos[4] = 2;
+						snake_ypos[4] = 2;
 
 						snake_length = 2;
-						snake_turn = 600000;
+						snake_turn = 3000;
 
 						// Generate target position
-						target_xpos = 10;
-						target_ypos = 10;
+						target_xpos = rand()%(grid_width);
+						target_ypos = rand()%(grid_height);
 
 						xpos = 0;
 						ypos = 0;
 						btn_value = 0;
-						btn_time = 700000;
+						btn_time = 3500;
 					}
 				}
 				//Check if the snake hits the wall
@@ -230,44 +235,47 @@ int main(void) {
 						snake_ypos[1] = 1;
 						snake_xpos[2] = 1;
 						snake_ypos[2] = 1;
+						snake_xpos[3] = 1;
+						snake_ypos[3] = 2;
+						snake_xpos[4] = 2;
+						snake_ypos[4] = 2;
 
 						snake_length = 2;
-						snake_turn = 600000;
+						snake_turn = 3000;
 
 						// Generate target position
-						target_xpos = 10;
-						target_ypos = 10;
+						target_xpos = rand()%(grid_width);
+						target_ypos = rand()%(grid_height);
 
 						xpos = 0;
 						ypos = 0;
 						btn_value = 0;
-						btn_time = 700000;
+						btn_time = 3500;
 				}
 
 				if (xpos == target_xpos && ypos == target_ypos)
 				{
 					xil_printf("\n Score: ");
 					xil_printf("%d", snake_length-1);
+					xil_printf("\n");
 					snake_length++;
-					snake_turn -= 15000; //make the snake move faster by shortening the turn
-					btn_time -= 10000; //make the button delay less
+					snake_turn -= 50; //make the turn quicker
+					btn_time -= 30; //make the button delay less
 					target_falseplace = 1;
 					while(target_falseplace == 1)
 					{
 						// Generate target position
-						target_xpos = 1+rand()%(grid_width-2); //Place the target between x = 1 and width-1
+						target_xpos = 1+rand()%(grid_width-2); //From x = 1 to width-1
 						target_ypos = 1+rand()%(grid_height-2);
 						target_falseplace = 0;
 
 						for(i=0;i<snake_length-1;i++)
 						{
-							//Check if the target is not on top of the snake
+
 							if (target_xpos == snake_xpos[i] && target_ypos == snake_ypos[i])
 							{
 								target_falseplace = 1;
 							}
-
-
 						}
 					}
 				}else{
